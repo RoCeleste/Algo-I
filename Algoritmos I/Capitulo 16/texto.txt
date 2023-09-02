@@ -1,0 +1,32 @@
+Para procesar el archivo de a bytes en lugar de líneas, se utiliza la función contenido =
+archivo.read(n) para leer n bytes y archivo.write(contenido), para escribir contenido en la
+posición actual del archivo.
+Al manejar un archivo binario, es necesario poder conocer la posición actual en el archivo
+y poder modificarla. Para obtener la posición actual se utiliza archivo.tell(), que indica la
+canGtidad de bytes desde el comienzo del archivo.
+GFD
+fDF
+gFG
+fGDdg
+G
+fFD
+dDBG
+fdBGf
+aG
+fNHd
+VDF
+d
+D
+VD
+D
+VD
+VDVDA
+D
+FD
+FA
+D
+A
+D
+CA
+AD
+AD
